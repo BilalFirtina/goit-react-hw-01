@@ -1,0 +1,32 @@
+.profilePhoto {
+  border-radius: 50%;
+  width: 25%;
+}
+.card {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding-top: 10px;
+}
+.name {
+  font-weight: bold;
+}
+.ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  padding: 0;
+  margin: 0;
+}
+.li {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid grey;
+  width: 33%;
+  background-color: lightgray;
+}
+.leftRadius {
+  border-bottom-left-radius: 10px;
+}
+.rightRadius {
+  border-bottom-right-radius: 10px;
+}

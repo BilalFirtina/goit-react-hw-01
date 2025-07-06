@@ -1,0 +1,12 @@
+.isOnline {
+  color: green;
+  font-weight: bold;
+}
+
+.isOfline {
+  color: red;
+  font-weight: bold;
+}
+.img {
+  margin-top: 10px;
+}
